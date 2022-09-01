@@ -1,0 +1,10 @@
+package sec1;
+
+// 변수(Variable) : 컴퓨터는 작업에 필요한 데이터를 메모리에 저장
+public class Var01 {
+
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,9 +1,15 @@
 package sec1;
 
-// 메인 실행클래스
-public class Ex1 {
+// 메인 실행클래스 - 한 줄 각주로 빈 줄이나 코드의 끝 부분에 입력
+public class Ex1 { // Ex1 : 클래스명, {} : 프로그램 블록의 시작과 끝, 클래스명 ==자바파일명
+	/*
+	 * 여러줄 각주 
+	 * 각주 : 프로그램의 실행과 무관한 설명 (Commnet == Description)
+	 */
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
+		// main(){} : main method
+		// main의 괄호() 안에 있는 args는 매개변수
 		System.out.println("하이~! 자바~!");
 		Ex2 ex2 = new Ex2();
 		ex2.method1();
