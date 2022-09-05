@@ -1,0 +1,17 @@
+package sec1;
+
+public class Oper3 {
+
+	public static void main(String[] args) {
+		//문자열 결합
+		//아스키코드 : 키보드 제어를 위해 사용되는 코드
+		byte a='k', b='i', c='m';
+		int d = 1004;
+		System.out.println("a="+a);
+		System.out.println("b="+b);
+		System.out.println("c="+c);
+		System.out.println(a+b+c+1004); //문자의 연산 결과는 숫자
+		System.out.println("kim"+d);	//문자열 결합
+	}
+
+}
