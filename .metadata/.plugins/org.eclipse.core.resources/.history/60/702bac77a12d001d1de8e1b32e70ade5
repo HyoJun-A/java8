@@ -1,0 +1,12 @@
+package sec1;
+
+public class Exam2 {
+
+	public static void main(String[] args) {
+		double x = 5.0, y = 0.0;
+		double z = x % y;
+		System.out.println(z);
+
+	}
+
+}
