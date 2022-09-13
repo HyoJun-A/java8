@@ -1,0 +1,16 @@
+package sec2;
+
+import java.util.Scanner;
+
+public class Condition5 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		boolean sw = true;
+		int money=0, balance=0;
+		
+		while(sw) {
+
+		}
+	}
+
+}

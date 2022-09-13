@@ -1,0 +1,9 @@
+package sec1;
+
+public class Condition1 {
+	public static void main(String[] args) {
+		System.out.println("점수 입력 : ");
+		
+	}
+
+}
