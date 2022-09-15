@@ -16,6 +16,7 @@ public class Loop8 {
 				
 			}
 			System.out.print("\n");
+			
 		}
 	}
 
