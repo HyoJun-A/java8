@@ -1,0 +1,5 @@
+package sec2;
+// 열거형 
+public enum Week {
+	
+}

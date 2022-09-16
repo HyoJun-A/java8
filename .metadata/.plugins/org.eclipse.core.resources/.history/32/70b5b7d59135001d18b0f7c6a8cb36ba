@@ -1,0 +1,5 @@
+package sec2;
+// 열거형 (enum)에 대한 멤버는 상수이므로 
+public enum Week {
+	
+}

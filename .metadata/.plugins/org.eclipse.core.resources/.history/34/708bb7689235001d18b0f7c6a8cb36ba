@@ -1,0 +1,8 @@
+package sec2;
+
+public class Ref2 {
+	public static void main(String[] args) {
+		Week today = null;
+	}
+
+}
