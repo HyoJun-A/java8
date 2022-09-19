@@ -1,0 +1,16 @@
+package sec1;
+
+public class MemberEx {
+	public static void main(String[] args) {
+		//클래스명 인스턴스명 = new 생성자함수();
+		Member mem1 = new Member();
+		mem1.setId("ahj");
+		mem1.setPassword("1234");
+		System.out.println("ID : "+mem1.getId());
+		System.out.println("PW : "+mem1.getPassword());
+		System.out.println("NAME : "+mem1.getName());
+		
+		Member mem2 = new Member("ahj", "1004");
+	}
+
+}

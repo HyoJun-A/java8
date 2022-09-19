@@ -1,0 +1,6 @@
+package sec1;
+
+public class Member {
+	String id;
+	String pw;
+}

@@ -1,0 +1,12 @@
+package sec3;
+
+public class Ex9 {
+
+	public static void main(String[] args) {
+		boolean run = true;
+		int studentNum = 0;
+		int[] scires = null;
+
+	}
+
+}

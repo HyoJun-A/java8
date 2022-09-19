@@ -1,0 +1,13 @@
+package sec1;
+
+import s2.Week;
+
+public class Member {
+	//id, paswword, name, address, reg_date : 클래스의 멤버 필드
+	String id;
+	String password;
+	String name;
+	String address;
+	String reg_date;
+	
+}
