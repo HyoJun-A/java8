@@ -1,9 +1,0 @@
-package sec2;
-
-public class Condition4 {
-	public static void main(String[] args) {
-		//점수를 입력받아 등급을 구하되, 등급은 90점 이상이면, "A", 80점 이상이라면, "B",
-		//70점 이상이면, "C", 60점이상이면 "D", 그 밖의 점수는 "F"
-	}
-
-}

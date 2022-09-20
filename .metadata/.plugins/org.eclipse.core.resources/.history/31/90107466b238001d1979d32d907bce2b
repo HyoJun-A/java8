@@ -1,0 +1,28 @@
+package sec2;
+
+public class Student {
+	String name;
+	int kor;
+	int eng;
+	int mat;
+	int sum = 0;
+	double avg = 0;
+	
+	public Student(){}
+	public Student(String name){
+		this.name = name;
+	}
+	public Student(String name, int kor, int eng, int mat){
+		this.name = name;
+		this.kor = kor;
+		this.eng = eng;
+		this.mat = mat;
+	}
+	
+	public int calcTot(){
+		sum = kor + eng+ mat;
+		return sum;
+	}
+	
+	public int calcAvg
+}
