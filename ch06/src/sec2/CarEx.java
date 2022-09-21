@@ -17,7 +17,7 @@ public class CarEx {
 		System.out.println("최저 속도 : " + Car.MIN_SPEED);
 		car1.bootOff();
 		
-		Car car2;	//
+		
 	}
 
 }
