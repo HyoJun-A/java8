@@ -29,6 +29,7 @@ public class Product {
 	
 	public Product(String pid, String pname){
 		this.pid = pid;
+		this.pname = pname;
 	}
 	
 	public Product(String pid, String pname, int amount, int price) {
@@ -78,11 +79,11 @@ public class Product {
 		this.img = img;
 	}
 	
-	public int calcMoney(){
+	public int calcMoney(){		//판매금액
 		return amount*price;
 	}
 	
-	public String calcRank() {
+	public String calcRank() {	//제품랭킹
 		String rank;
 		if(price >= 100000 ){
 			rank = "고가";
@@ -94,11 +95,11 @@ public class Product {
 		return rank;
 	}
 	
-	public void printImg(){
+	public void printImg(){	//이미지
 		System.out.println("이미지 값 : " + img);
 	}
 	
-	public void printProduct(){
+	public void printProduct(){	//제품의 아이디, 제품명, 제품수량, 제품가격, 제품이미지
 		System.out.println("제품의 아이디 : " + pid);
 		System.out.println("제품명 : " + pname);
 		System.out.println("제품수량 : " + amount);

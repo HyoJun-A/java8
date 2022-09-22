@@ -1,8 +1,0 @@
-package sec3;
-
-public class Loop8 {
-	public static void main(String[] args) {
-		//이증 for문을 활용하여 아래와 같은 형태의 구구단을 출력 
-	}
-
-}

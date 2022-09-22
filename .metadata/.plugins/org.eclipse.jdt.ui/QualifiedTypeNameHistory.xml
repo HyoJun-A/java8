@@ -13,6 +13,8 @@
 <fullyQualifiedTypeName name="sec1.MemberContoller"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="sec2.Product"/>
 </qualifiedTypeNameHistroy>

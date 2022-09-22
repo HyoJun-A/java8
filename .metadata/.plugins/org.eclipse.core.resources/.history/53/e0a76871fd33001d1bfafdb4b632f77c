@@ -1,9 +1,0 @@
-package sec3;
-
-public class Loop5 {
-	public static void main(String args) {
-		//역 반복(역 for문, 역 while문) : 감소
-		
-	}
-
-}
