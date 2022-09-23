@@ -14,7 +14,11 @@
 <fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="sec2.Product"/>
+<fullyQualifiedTypeName name="sec3.FinalClass1"/>
+<fullyQualifiedTypeName name="sec4.MemberService"/>
+<fullyQualifiedTypeName name="sec4.ShopService"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="sec4.Account"/>
 </qualifiedTypeNameHistroy>

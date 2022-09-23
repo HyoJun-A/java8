@@ -1,0 +1,6 @@
+package sec4;
+
+public class MemberService {
+	String id;
+	String password;
+}
