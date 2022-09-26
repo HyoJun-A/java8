@@ -21,4 +21,9 @@
 <fullyQualifiedTypeName name="sec4.ShopService"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="sec4.Account"/>
+<fullyQualifiedTypeName name="sec1.Parent"/>
+<fullyQualifiedTypeName name="sec1.Child"/>
+<fullyQualifiedTypeName name="sec2.DmbPhoneEx"/>
+<fullyQualifiedTypeName name="sec2.CellPhone"/>
+<fullyQualifiedTypeName name="sec2.DmbPhone"/>
 </qualifiedTypeNameHistroy>

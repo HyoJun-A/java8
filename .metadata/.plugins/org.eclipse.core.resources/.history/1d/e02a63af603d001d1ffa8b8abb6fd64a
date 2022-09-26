@@ -1,0 +1,10 @@
+package sec2;
+
+public class CellPhone {
+	String model;
+	String color;
+	
+	public void powerOn(){
+		
+	}
+}

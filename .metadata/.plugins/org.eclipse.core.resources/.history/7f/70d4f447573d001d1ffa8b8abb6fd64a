@@ -1,0 +1,6 @@
+package sec1;
+
+public class Child2 extends Parent {
+	int field5;
+	String field6;
+}

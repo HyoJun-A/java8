@@ -1,0 +1,19 @@
+package sec1;
+
+public class Child extends Parent{
+	int filed3;
+	String filed4;
+	
+	
+	
+	@Override
+	public int method2() {
+		return super.method2();
+	}
+
+	public String method3(){
+		return "문자열";
+	}
+	
+	public void method4(){System.out.println("메소드4");}
+}

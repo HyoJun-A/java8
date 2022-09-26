@@ -1,0 +1,31 @@
+package sec1;
+
+public class Child extends Parent{
+	int filed3;
+	String filed4;
+	
+	public Child(){}
+	public Child(int filed1){
+		super(filed1);
+	}
+	public Child(int field1, String field2){
+		this(filed1, field2, 100);
+	}
+	
+	public Child(int filed1, String filed2, int filed3) {
+		this.filed1 = filed1;
+		this.filed2 = filed2;
+		this.filed3 = filed3;
+	}
+	//메소드 오버라이딩 : 부모로 부터 물려 받은 메소드를 다른 형태로 변형할 수 있도록 한 것
+	@Override
+	public int method2() {	//Parent의 method2를 오버라이딩하여 다른 형태로 변환
+		return 1004;
+	}
+
+	public String method3(){
+		return "문자열";
+	}
+	
+	public void method4(){System.out.println("메소드4");}
+}

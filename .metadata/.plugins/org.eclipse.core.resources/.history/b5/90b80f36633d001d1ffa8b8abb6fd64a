@@ -1,0 +1,18 @@
+package sec2;
+
+public class DmbPhone extends CellPhone{
+	int ch;
+	final static String CCOMPANY = "애플";
+	
+	
+	
+	public int channelDisplay(){
+		return ch;
+	}
+	public void channelDown(){
+		ch--;
+	}
+	public void channelUp(){
+		ch++;
+	}
+}
