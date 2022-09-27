@@ -14,6 +14,7 @@ public class PromotionEx {
 		D d = new D();
 		E e = new E();
 		
+		//다형성 : 부모 클래스에서 가진 내용들을 상속 받아 자식 클래스에서 다양하게 활용할 수 있음.
 		A a1 = b;
 		A a2 = c;
 		A a3 = d;

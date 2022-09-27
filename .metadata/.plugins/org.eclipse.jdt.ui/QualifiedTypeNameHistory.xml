@@ -26,4 +26,11 @@
 <fullyQualifiedTypeName name="sec2.DmbPhoneEx"/>
 <fullyQualifiedTypeName name="sec2.CellPhone"/>
 <fullyQualifiedTypeName name="sec2.DmbPhone"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="sec3.MotorCycle"/>
+<fullyQualifiedTypeName name="sec3.MichelinTire"/>
+<fullyQualifiedTypeName name="sec3.kumhoTire"/>
+<fullyQualifiedTypeName name="sec3.HankookTire"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="sec4.Student"/>
 </qualifiedTypeNameHistroy>

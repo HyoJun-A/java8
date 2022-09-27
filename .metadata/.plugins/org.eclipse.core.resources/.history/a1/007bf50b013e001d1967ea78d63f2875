@@ -1,0 +1,5 @@
+package sec3;
+
+public class Tire {
+	public int maxRotation;		//최대 회전수(타이어 수명)
+}

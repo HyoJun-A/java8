@@ -1,0 +1,6 @@
+package sec4;
+
+public class Student {
+	String bun;
+	String name;
+}

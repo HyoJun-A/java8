@@ -1,0 +1,8 @@
+package sec3;
+
+public class MotorCycle {
+	int[] useTire = new int[4];
+	Tire uTire = new Tire();
+	
+	
+}
