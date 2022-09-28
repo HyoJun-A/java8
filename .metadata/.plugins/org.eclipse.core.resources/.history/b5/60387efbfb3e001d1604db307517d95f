@@ -1,0 +1,5 @@
+package sec2;
+
+public interface Searchable extends RemoteControl{
+	void serch(String url);
+}

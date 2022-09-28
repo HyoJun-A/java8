@@ -1,0 +1,11 @@
+package sec5;
+
+public class Child extends Parent{
+	private int studentNo;
+	
+	public Child(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+	
+}

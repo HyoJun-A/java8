@@ -1,0 +1,6 @@
+package sec5;
+
+public class SnowTire extends Tire{
+	@Override
+	public
+}

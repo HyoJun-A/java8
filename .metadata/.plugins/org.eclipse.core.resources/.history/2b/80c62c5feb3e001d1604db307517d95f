@@ -1,0 +1,13 @@
+package sec5;
+
+import java.util.Scanner;
+
+public class ChildExample {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		Child child = new Child();
+
+	}
+
+}

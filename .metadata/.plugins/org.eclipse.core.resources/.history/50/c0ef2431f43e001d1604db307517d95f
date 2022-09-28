@@ -1,0 +1,18 @@
+package sec1;
+
+public class Clazz implements Interface1, Interface2{
+
+	@Override
+	public void method1() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public int method2(int pa1, String pa2) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+	
+}

@@ -1,0 +1,7 @@
+package sec5;
+
+public class Child extends Parent{
+	private int studentNo;
+	
+	
+}

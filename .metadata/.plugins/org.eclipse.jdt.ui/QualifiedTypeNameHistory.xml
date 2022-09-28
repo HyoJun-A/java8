@@ -19,7 +19,6 @@
 <fullyQualifiedTypeName name="sec3.FinalClass1"/>
 <fullyQualifiedTypeName name="sec4.MemberService"/>
 <fullyQualifiedTypeName name="sec4.ShopService"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="sec4.Account"/>
 <fullyQualifiedTypeName name="sec1.Parent"/>
 <fullyQualifiedTypeName name="sec1.Child"/>
@@ -33,4 +32,14 @@
 <fullyQualifiedTypeName name="sec3.HankookTire"/>
 <fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="sec4.Student"/>
+<fullyQualifiedTypeName name="java.lang.Package"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="sec5.Child"/>
+<fullyQualifiedTypeName name="sec5.SnowTire"/>
+<fullyQualifiedTypeName name="sec5.Parent"/>
+<fullyQualifiedTypeName name="sec1.Interface1"/>
+<fullyQualifiedTypeName name="sec1.Interface2"/>
+<fullyQualifiedTypeName name="sec2.Television"/>
+<fullyQualifiedTypeName name="sec2.RemoteControl"/>
+<fullyQualifiedTypeName name="sec3.Soundable"/>
 </qualifiedTypeNameHistroy>

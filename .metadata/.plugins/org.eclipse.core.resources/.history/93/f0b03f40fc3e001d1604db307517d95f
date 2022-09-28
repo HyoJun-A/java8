@@ -1,0 +1,13 @@
+package sec2;
+
+public class SmartTV implements RemoteControl, Searchable{
+
+	
+	
+	@Override
+	public void serch(String url) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}
