@@ -1,0 +1,10 @@
+package sec1;
+
+public class Exception6 {
+	FileInputStream fis = null;
+	public static void main(String[] args) {
+		
+
+	}
+
+}

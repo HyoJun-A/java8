@@ -1,0 +1,7 @@
+package sec1;
+
+public class OuterClass {
+	class a{
+		
+	}
+}

@@ -1,0 +1,15 @@
+package sec1;
+
+public class Exception5 {
+
+	public static void main(String[] args) {
+		try {
+			Class cla = Class.forName("oracle.jdbc.driver");
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+
+	}
+
+}
