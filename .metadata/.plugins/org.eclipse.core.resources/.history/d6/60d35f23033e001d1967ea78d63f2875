@@ -1,5 +1,0 @@
-package sec3;
-
-public class Car {
-	Tire frontLeftTire = new Tire(7, "앞왼쪽")
-}

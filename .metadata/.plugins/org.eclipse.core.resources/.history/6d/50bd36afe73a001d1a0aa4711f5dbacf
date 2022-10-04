@@ -1,8 +1,0 @@
-package sec3;
-
-public class FinalClassEx1 {
-	public static void main(String[] args) {
-		
-	}
-
-}

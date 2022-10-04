@@ -1,7 +1,0 @@
-package sec4;
-
-public class Account {
-	private int balance;
-	finall static int MIN_BALACE = 0;
-	
-}
