@@ -1,0 +1,11 @@
+package sec2;
+
+public class Ex4 {
+	public static void main(String[] args) {
+
+	}
+}
+
+public class Pair<K, V>{
+	
+}
