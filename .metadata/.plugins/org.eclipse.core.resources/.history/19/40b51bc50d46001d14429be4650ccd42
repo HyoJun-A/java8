@@ -1,0 +1,9 @@
+package sec2;
+
+import java.util.LinkedList;
+
+public class ListEx4 {
+	public static void main(String[] args) {
+		List lst1 = new LinkedList<E>();
+	}
+}

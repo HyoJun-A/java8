@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;sec1.CollectonEx1&apos; to &apos;CollectionEx1&apos;&#x0D;&#x0A;- Original project: &apos;ch15&apos;&#x0D;&#x0A;- Original element: &apos;sec1.CollectonEx1&apos;&#x0D;&#x0A;- Renamed element: &apos;sec1.CollectionEx1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CollectonEx1&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;sec1{CollectonEx1.java[CollectonEx1" matchStrategy="1" name="CollectionEx1" qualified="false" references="true" similarDeclarations="false" stamp="1665118130262" textual="false" version="1.0"/>
+</session>
