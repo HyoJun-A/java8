@@ -1,8 +1,0 @@
-package sec5;
-//Pattern
-public class PatternEx1 {
-	public static void main(String[] args) {
-		
-
-	}
-}

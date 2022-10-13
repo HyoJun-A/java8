@@ -1,8 +1,0 @@
-package sec5;
-//Pattern(패턴) : regEx
-public class PatternEx1 {
-	public static void main(String[] args) {
-		
-
-	}
-}

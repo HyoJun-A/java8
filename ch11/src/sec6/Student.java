@@ -10,11 +10,11 @@ public class Student {
 	public String getStudentNum(){
 		return studentNum;
 	}
-	
-	@Override
-	public boolean equals(boolean b){
-		return false;
-	}
-	
+//	
+//	@Override
+//	public boolean equals(boolean b){
+//		return false;
+//	}
+//	
 	
 }
